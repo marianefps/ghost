@@ -1,2 +1,1 @@
-# ghost
-jogo revisão fantasma
+# C20
